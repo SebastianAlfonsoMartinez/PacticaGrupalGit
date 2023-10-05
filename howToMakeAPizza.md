@@ -24,3 +24,8 @@ Pasos para hacer la mejor pizza de ADA
 23. Hornear la pizza
 24. Sacar la pizza de horno
 25. Dejar la pizza en la mesa para siguiente paso
+26. Armar caja de pizza.
+27. Cortar pizza en porciones.
+28. Añadir salas para agregar.
+29. Sellar caja de la pizza.
+30. Entregar pizza al afortunado consumidor.
